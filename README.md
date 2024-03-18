@@ -36,7 +36,7 @@
 <https://rumsan.com/>
 
 **Images**
-![tick-mark](image/)
+![tick-mark](image/black-checkmark.png)
 
 
 
